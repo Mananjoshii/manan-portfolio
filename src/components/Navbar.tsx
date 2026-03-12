@@ -46,11 +46,11 @@ const Navbar = () => {
           RC
         </a>
         <a
-          href="mailto:rajeshchittyal21@gmail.com"
+          href="mailto:joshimanan074@gmail.com"
           className="navbar-connect"
           data-cursor="disable"
         >
-          rajeshchittyal21@gmail.com
+          joshimanan074@gmail.com
         </a>
         <ul>
           <li>
